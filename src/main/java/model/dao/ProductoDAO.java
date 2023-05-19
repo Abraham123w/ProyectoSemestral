@@ -1,4 +1,4 @@
-package gui;
+package model.dao;
 
 public class ProductoDAO {
 
